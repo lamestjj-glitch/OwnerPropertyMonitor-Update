@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.0",
-  "minimum_supported_version": "1.0.0",
+  "latest_version": "1.0.1",
+  "minimum_supported_version": "1.0.1",
   "force_update": true,
-  "message": "",
+  "message": "版本已更新",
   "download_url": "https://github.com/lamestjj-glitch/OwnerPropertyMonitor-Update/releases/latest"
 }
