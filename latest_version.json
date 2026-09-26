@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.1",
-  "minimum_supported_version": "1.0.1",
+  "latest_version": "1.0.0",
+  "minimum_supported_version": "1.0.0",
   "force_update": true,
-  "message": "版本已更新, 掏錢來找你貓大哥",
+  "message": "歡迎使用, 祝你在精聊路上一路長虹",
   "download_url": "https://github.com/lamestjj-glitch/OwnerPropertyMonitor-Update/releases/latest"
 }
